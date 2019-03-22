@@ -534,6 +534,7 @@ class ProtocolMixin(object):
             "BitcoinCash": 145,
             "Bitcore": 160,
             "Bitcloud": 218,
+            "Electra": 249,
             "Axe": 4242,
         }
 
